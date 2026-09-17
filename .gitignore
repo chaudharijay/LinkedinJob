@@ -1,0 +1,16 @@
+# Data (large, shouldn't live in git)
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.vscode/
+.DS_Store
